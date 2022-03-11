@@ -387,6 +387,12 @@
 			"description": "A fascinating and provocative new way of looking at the things we use and the spaces we inhabit, and a call to imagine a better-designed world for us all.",
 			"additional": "Sara Hendren",
 			"url": "https://www.penguinrandomhouse.com/books/561049/what-can-a-body-do-by-sara-hendren/"
+		},
+		{
+			"title": "The Book on Accessibility",
+			"description": "A workbook and checklist for creating a holistic accessibility compliance program in an agile enterprise",
+			"additional": "Charlie Triplett",
+			"url": "https://www.thebookonaccessibility.com/"
 		}
 	],
 	"browserExtensions": [
@@ -1078,6 +1084,12 @@
 			"description": "This collection of tutorials shows you how to develop web content that is accessible to people with disabilities, and that provides a better user experience for everyone.",
 			"additional": "W3C",
 			"url": "https://www.w3.org/WAI/tutorials/"
+		},
+		{
+			"title": "MagentaA11y",
+			"description": "Automatically generate manual test instructions and acceptance critiera for Web, iOS and Android components",
+			"additional": "T-Mobile",
+			"url": "https://www.magentaa11y.com/"
 		}
 	],
 	"imagesAndIcons": [
